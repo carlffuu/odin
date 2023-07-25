@@ -1,3 +1,4 @@
-# odin
+# odin recipe
 
-Githubbed again
+Here is my recipe book for odin :)
+
